@@ -5,8 +5,7 @@ plugins {
 
 group 'io.turntabl'
 version '1.0-SNAPSHOT'
-mainClassName = 'io.turntabl.scalagettingstarted.MyApp'
-
+mainClassName = 'io.turntabl.student.MyApp'
 sourceCompatibility = 1.8
 
 repositories {

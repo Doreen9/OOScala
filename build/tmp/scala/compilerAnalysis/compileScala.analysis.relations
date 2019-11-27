@@ -1,11 +1,15 @@
 products:
    src/main/scala/io/turntabl/grades/Grade.scala -> build/classes/scala/main/io/turntabl/grades/Grade$.class
    src/main/scala/io/turntabl/grades/Grade.scala -> build/classes/scala/main/io/turntabl/grades/Grade.class
+   src/main/scala/io/turntabl/student/TLCStudent.scala -> build/classes/scala/main/io/turntabl/student/AccessCard.class
    src/main/scala/io/turntabl/student/TLCStudent.scala -> build/classes/scala/main/io/turntabl/student/MyApp$.class
    src/main/scala/io/turntabl/student/TLCStudent.scala -> build/classes/scala/main/io/turntabl/student/MyApp$delayedInit$body.class
    src/main/scala/io/turntabl/student/TLCStudent.scala -> build/classes/scala/main/io/turntabl/student/MyApp.class
    src/main/scala/io/turntabl/student/TLCStudent.scala -> build/classes/scala/main/io/turntabl/student/TLCStudent$.class
    src/main/scala/io/turntabl/student/TLCStudent.scala -> build/classes/scala/main/io/turntabl/student/TLCStudent.class
+   src/main/scala/io/turntabl/student/TLCStudent.scala -> build/classes/scala/main/io/turntabl/student/TurnTablEmployee.class
+   src/main/scala/io/turntabl/student/TLCStudent.scala -> build/classes/scala/main/io/turntabl/student/TurnTablManager$.class
+   src/main/scala/io/turntabl/student/TLCStudent.scala -> build/classes/scala/main/io/turntabl/student/TurnTablManager.class
 binary dependencies:
    src/main/scala/io/turntabl/grades/Grade.scala -> /home/doreen-dodoo/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
    src/main/scala/io/turntabl/grades/Grade.scala -> /snap/intellij-idea-community/185/jbr
@@ -17,8 +21,12 @@ external dependencies:
 class names:
    src/main/scala/io/turntabl/grades/Grade.scala -> io.turntabl.grades.Grade
    src/main/scala/io/turntabl/grades/Grade.scala -> io.turntabl.grades.Grade$
+   src/main/scala/io/turntabl/student/TLCStudent.scala -> io.turntabl.student.AccessCard
    src/main/scala/io/turntabl/student/TLCStudent.scala -> io.turntabl.student.MyApp
    src/main/scala/io/turntabl/student/TLCStudent.scala -> io.turntabl.student.MyApp$
    src/main/scala/io/turntabl/student/TLCStudent.scala -> io.turntabl.student.MyApp$delayedInit$body
    src/main/scala/io/turntabl/student/TLCStudent.scala -> io.turntabl.student.TLCStudent
    src/main/scala/io/turntabl/student/TLCStudent.scala -> io.turntabl.student.TLCStudent$
+   src/main/scala/io/turntabl/student/TLCStudent.scala -> io.turntabl.student.TurnTablEmployee
+   src/main/scala/io/turntabl/student/TLCStudent.scala -> io.turntabl.student.TurnTablManager
+   src/main/scala/io/turntabl/student/TLCStudent.scala -> io.turntabl.student.TurnTablManager$
