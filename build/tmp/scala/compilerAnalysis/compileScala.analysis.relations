@@ -1,32 +1,68 @@
 products:
-   src/main/scala/io/turntabl/grades/Grade.scala -> build/classes/scala/main/io/turntabl/grades/Grade$.class
-   src/main/scala/io/turntabl/grades/Grade.scala -> build/classes/scala/main/io/turntabl/grades/Grade.class
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> build/classes/scala/main/io/turntabl/student/AccessCard.class
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> build/classes/scala/main/io/turntabl/student/MyApp$.class
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> build/classes/scala/main/io/turntabl/student/MyApp$delayedInit$body.class
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> build/classes/scala/main/io/turntabl/student/MyApp.class
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> build/classes/scala/main/io/turntabl/student/TLCStudent$.class
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> build/classes/scala/main/io/turntabl/student/TLCStudent.class
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> build/classes/scala/main/io/turntabl/student/TurnTablEmployee.class
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> build/classes/scala/main/io/turntabl/student/TurnTablManager$.class
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> build/classes/scala/main/io/turntabl/student/TurnTablManager.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\AccessCard.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\AccessCard.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\grades\Grade.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\grades\Grade$.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\grades\Grade.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\grades\Grade.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\Main.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\Book$.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\Main.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\Book.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\Main.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\Main$$anonfun$1.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\Main.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\Main$.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\Main.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\Main$delayedInit$body.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\Main.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\Main.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\manager\TLCManager.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\manager\TLCManager$.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\manager\TLCManager.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\manager\TLCManager.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\student\tryExample.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\student\MyTryApp$.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\student\tryExample.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\student\MyTryApp$delayedInit$body.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\student\tryExample.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\student\MyTryApp.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\student\tryExample.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\student\tryExample$.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\student\tryExample.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\student\tryExample.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\TLCStudent.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\TLCStudent$.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\TLCStudent.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\TLCStudent.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\TurnTablEmployee.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\TurnTablEmployee.class
 binary dependencies:
-   src/main/scala/io/turntabl/grades/Grade.scala -> /home/doreen-dodoo/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
-   src/main/scala/io/turntabl/grades/Grade.scala -> /snap/intellij-idea-community/185/jbr
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> /home/doreen-dodoo/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> /snap/intellij-idea-community/185/jbr
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\AccessCard.scala -> C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2\jbr
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\AccessCard.scala -> C:\Users\Doreen\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.12\bf5534e6fec3d665bd6419c952a929a8bdd4b591\scala-library-2.11.12.jar
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\grades\Grade.scala -> C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2\jbr
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\grades\Grade.scala -> C:\Users\Doreen\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.12\bf5534e6fec3d665bd6419c952a929a8bdd4b591\scala-library-2.11.12.jar
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\Main.scala -> C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2\jbr
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\Main.scala -> C:\Users\Doreen\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.12\bf5534e6fec3d665bd6419c952a929a8bdd4b591\scala-library-2.11.12.jar
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\manager\TLCManager.scala -> C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2\jbr
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\manager\TLCManager.scala -> C:\Users\Doreen\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.12\bf5534e6fec3d665bd6419c952a929a8bdd4b591\scala-library-2.11.12.jar
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\manager\TLCManager.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\AccessCard.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\manager\TLCManager.scala -> C:\Users\Doreen\IdeaProjects\OOScala\build\classes\scala\main\io\turntabl\TurnTablEmployee.class
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\student\tryExample.scala -> C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2\jbr
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\student\tryExample.scala -> C:\Users\Doreen\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.12\bf5534e6fec3d665bd6419c952a929a8bdd4b591\scala-library-2.11.12.jar
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\TLCStudent.scala -> C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2\jbr
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\TLCStudent.scala -> C:\Users\Doreen\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.12\bf5534e6fec3d665bd6419c952a929a8bdd4b591\scala-library-2.11.12.jar
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\TurnTablEmployee.scala -> C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2\jbr
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\TurnTablEmployee.scala -> C:\Users\Doreen\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.12\bf5534e6fec3d665bd6419c952a929a8bdd4b591\scala-library-2.11.12.jar
 source dependencies:
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> src/main/scala/io/turntabl/grades/Grade.scala
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\Main.scala -> C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\AccessCard.scala
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\Main.scala -> C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\TLCStudent.scala
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\Main.scala -> C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\TurnTablEmployee.scala
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\Main.scala -> C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\manager\TLCManager.scala
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\manager\TLCManager.scala -> C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\AccessCard.scala
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\manager\TLCManager.scala -> C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\TurnTablEmployee.scala
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\TLCStudent.scala -> C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\AccessCard.scala
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\TLCStudent.scala -> C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\TurnTablEmployee.scala
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\TLCStudent.scala -> C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\grades\Grade.scala
 external dependencies:
 class names:
-   src/main/scala/io/turntabl/grades/Grade.scala -> io.turntabl.grades.Grade
-   src/main/scala/io/turntabl/grades/Grade.scala -> io.turntabl.grades.Grade$
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> io.turntabl.student.AccessCard
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> io.turntabl.student.MyApp
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> io.turntabl.student.MyApp$
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> io.turntabl.student.MyApp$delayedInit$body
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> io.turntabl.student.TLCStudent
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> io.turntabl.student.TLCStudent$
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> io.turntabl.student.TurnTablEmployee
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> io.turntabl.student.TurnTablManager
-   src/main/scala/io/turntabl/student/TLCStudent.scala -> io.turntabl.student.TurnTablManager$
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\AccessCard.scala -> io.turntabl.AccessCard
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\grades\Grade.scala -> io.turntabl.grades.Grade
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\grades\Grade.scala -> io.turntabl.grades.Grade$
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\Main.scala -> io.turntabl.Book
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\Main.scala -> io.turntabl.Book$
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\Main.scala -> io.turntabl.Main
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\Main.scala -> io.turntabl.Main$
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\Main.scala -> io.turntabl.Main$$anonfun$1
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\Main.scala -> io.turntabl.Main$delayedInit$body
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\manager\TLCManager.scala -> io.turntabl.manager.TLCManager
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\manager\TLCManager.scala -> io.turntabl.manager.TLCManager$
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\student\tryExample.scala -> io.turntabl.student.MyTryApp
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\student\tryExample.scala -> io.turntabl.student.MyTryApp$
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\student\tryExample.scala -> io.turntabl.student.MyTryApp$delayedInit$body
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\student\tryExample.scala -> io.turntabl.student.tryExample
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\student\tryExample.scala -> io.turntabl.student.tryExample$
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\TLCStudent.scala -> io.turntabl.TLCStudent
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\TLCStudent.scala -> io.turntabl.TLCStudent$
+   C:\Users\Doreen\IdeaProjects\OOScala\src\main\scala\io\turntabl\TurnTablEmployee.scala -> io.turntabl.TurnTablEmployee
