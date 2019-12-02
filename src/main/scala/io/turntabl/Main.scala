@@ -19,9 +19,9 @@ object Main extends App{
     Book("Bliton", "Robin Hood", 2010, "comedy")
   )
 
-//  books foreach (b => if (b.category == "History") b match {
-//    case Book(a, t, y, c) => println(a)
-//  })
+books foreach (b => if (b.category == "History") b match {
+   case Book(a, t, y, c) => println(a)
+ })
 
   val employees: List[TurnTablEmployee] = List(
     TLCStudent("Christiana", "Asare", 2019),
